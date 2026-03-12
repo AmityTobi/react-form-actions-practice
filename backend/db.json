@@ -1,0 +1,39 @@
+{
+  "opinions": [
+    {
+      "id": 1773078702428,
+      "votes": 4,
+      "userName": "Dr Baby's Baby",
+      "title": "I WILL NOT BE STUBBORN AGAIN",
+      "body": "I have been a stubborn naughty little baby, i promise not too be stubborn again from today. I will not argue with Dr Baby again and i will be a good litle baby for my Dr Baby\n\nsigned\nDBB"
+    },
+    {
+      "id": 1773078400966,
+      "votes": 0,
+      "userName": "Joy Uyane",
+      "title": "How To Be A Bad Girl- Baddie101",
+      "body": "Well, being a baddie requires 3 things. 1; you must come from Kaduna. 2; you must recognize who i am. 3; If you dont geraraaaaherrreeee now.. "
+    },
+    {
+      "id": 1773076827291,
+      "votes": 0,
+      "userName": "Bolaji",
+      "title": "React-Practice",
+      "body": "I am learning to love react gradually and i think it is a cool library"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 2
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
